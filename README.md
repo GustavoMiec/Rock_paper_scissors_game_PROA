@@ -42,4 +42,3 @@ script.js
 
 ## 👤 Autor
 - **Nome:** Gustavo Costa
-- **Contato:** [Seu LinkedIn ou GitHub]
